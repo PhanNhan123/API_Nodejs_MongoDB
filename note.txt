@@ -1,0 +1,6 @@
+npm init -y 
+npm i express mongoose 
+npm i nodemon -D
+
+npm run dev 
+root - root123123
